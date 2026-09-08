@@ -85,8 +85,8 @@ identity:
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qanz4Ever&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=00F2FE&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qanz4Ever&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=00F2FE&text_color=E2E8F0" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Qanz4Ever&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=00F2FE&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Qanz4Ever&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=00F2FE&text_color=E2E8F0" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
