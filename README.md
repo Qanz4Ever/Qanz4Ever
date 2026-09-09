@@ -100,7 +100,7 @@ identity:
 <p align="left">
   <a href="https://pterodactyl-installer.mfsavana.my.id/"><img src="https://img.shields.io/badge/Website-Pterodactyl%20Security-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
   <a href="https://github.com/Qanz4Ever"><img src="https://img.shields.io/badge/GitHub-@Qanz4Ever-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:mfsavana@gmail.com"><img src="https://img.shields.io/badge/Email-qyumassa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mfsavana@gmail.com"><img src="https://img.shields.io/badge/Email-mfsavana@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
