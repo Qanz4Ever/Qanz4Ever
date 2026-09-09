@@ -92,7 +92,7 @@
       <circle cx="14" cy="13" r="4" fill="#34d399">
         <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
       </circle>
-      <text x="28" y="17" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">DEVELOPER &amp; SYSADMIN</text>
+      <text x="28" y="17" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">VERSATILE SOFTWARE ENGINEER</text>
     </g>
 
     <!-- Name / Brand -->
@@ -102,38 +102,44 @@
 
     <!-- Subtitle -->
     <text x="0" y="104" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" letter-spacing="0.2">
-      Full-Stack Software Developer • Linux Systems • Automation &amp; Security
+      Desktop Apps (C# / .NET) • Full-Stack Web • Systems &amp; Automation
     </text>
 
     <!-- Tech Badges Bar -->
     <g transform="translate(0, 138)">
-      <!-- Badge 1: Node.js -->
+      <!-- Badge 1: C# / .NET -->
       <g transform="translate(0, 0)">
-        <rect x="0" y="0" width="110" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+        <rect x="0" y="0" width="105" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+        <text x="14" y="19" fill="#C084FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🔷 C# / .NET</text>
+      </g>
+
+      <!-- Badge 2: Node.js -->
+      <g transform="translate(115, 0)">
+        <rect x="0" y="0" width="98" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
         <text x="14" y="19" fill="#22C55E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">⚡ Node.js</text>
       </g>
 
-      <!-- Badge 2: Python -->
-      <g transform="translate(120, 0)">
-        <rect x="0" y="0" width="105" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+      <!-- Badge 3: Python -->
+      <g transform="translate(223, 0)">
+        <rect x="0" y="0" width="92" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
         <text x="14" y="19" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🐍 Python</text>
       </g>
 
-      <!-- Badge 3: Bash/Linux -->
-      <g transform="translate(235, 0)">
+      <!-- Badge 4: Bash/Linux -->
+      <g transform="translate(325, 0)">
         <rect x="0" y="0" width="125" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
         <text x="14" y="19" fill="#FBBF24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🐧 Bash / Linux</text>
       </g>
 
-      <!-- Badge 4: Security -->
-      <g transform="translate(370, 0)">
-        <rect x="0" y="0" width="165" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
-        <text x="14" y="19" fill="#F472B6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🛡️ Security Hardening</text>
+      <!-- Badge 5: Security & Tools -->
+      <g transform="translate(460, 0)">
+        <rect x="0" y="0" width="140" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+        <text x="14" y="19" fill="#F472B6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🛡️ Security &amp; Ops</text>
       </g>
 
-      <!-- Badge 5: Indonesia -->
-      <g transform="translate(545, 0)">
-        <rect x="0" y="0" width="145" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+      <!-- Badge 6: Indonesia -->
+      <g transform="translate(610, 0)">
+        <rect x="0" y="0" width="135" height="30" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
         <text x="14" y="19" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">📍 Indonesia 🇮🇩</text>
       </g>
     </g>
